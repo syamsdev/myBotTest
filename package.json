@@ -1,0 +1,26 @@
+{
+  "name": "mybottest",
+  "version": "1.0.0",
+  "description": "Build a bot - my first bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syamsdev/myBotTest.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Syam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamsdev/myBotTest/issues"
+  },
+  "homepage": "https://github.com/syamsdev/myBotTest#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
